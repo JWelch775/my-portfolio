@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    color: yellow;
+    background-color: black;
+    height: 100px;
+    margin: 0;
+}
+
+#my-name {
+    font-size: 53px;
+}
+
+.nav-bar {
+    font-size: larger;
+    color: yellow;
+    
+}
+
+.nav-bar a{
+    text-decoration: none;
+    color: yellow;
+    font-size: 33px;
+    border-bottom: 1px solid yellow;
+}
+
+#hero {
+    background-image:url(../images/hero.jpg);
+    height: 350px;
+    background-position: center;
+}
